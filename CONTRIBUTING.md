@@ -96,7 +96,6 @@ If you're loving Chat Effects Overlay and want to help keep development going:
 
 - ⭐ **Star this repo** - It's free and means the world to me! (Sorry I mention this a lot lol)
 - ☕ **Buy me a coffee** - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q01LD6WM)
-- 💝 **Become a sponsor** - [GitHub Sponsors](https://github.com/sponsors/rydaguy101)
 - 🗣️ **Spread the word** - Tell other streamers!
 
 Every bit of support helps me spend more time making this awesome! 🚀
