@@ -41,9 +41,7 @@ Transform your Twitch stream with stunning visual effects triggered by chat mess
 
 
 3. Follow the installation wizard:
-   - Accept the license agreement
    - Choose installation directory (default is recommended)
-   - Select additional tasks (desktop shortcut, etc.)
 
 
 #### Step 3: Launch the Application
@@ -137,17 +135,11 @@ Once everything is set up, the overlay will automatically detect trigger keyword
 
 ### Hotkeys
 
-- **F11**: Toggle fullscreen overlay mode
-- **Ctrl + H**: Hide/show overlay temporarily  
-- **Ctrl + R**: Reconnect to Twitch chat
-- **ESC**: Exit fullscreen mode
+- **F11**: Hide everything including effects
+- **F10**: Hide/show panels 
+- **F9**: Toggle mouse (To click through the overlay) 
+- **ESC**: Hide main panel
 
-
-### Customizing Effects
-
-1. Right-click on the overlay to access settings
-2. Adjust effect intensity, duration, and colors
-3. Enable/disable specific effect types
 
 
 ## 🛠️ Troubleshooting
